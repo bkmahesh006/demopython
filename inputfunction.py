@@ -8,4 +8,4 @@ print("Sum of a+b= ", z)  # string sum
 
 w = int(x) + int(y)
 
-print("Sum of a+b= ", w)
+print("Sum of a+b= ", w) # integer sum
